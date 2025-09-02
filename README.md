@@ -1,4 +1,5 @@
 # odin-recipes
+
 first project
 
 The first project of The Odin Project
@@ -10,4 +11,3 @@ The website will consist of a main index page which will have links to a few rec
 I will try and commit often, and meaningfully... in a uniform manner.
 
 !!! "We know it may be tempting to look at the solutions when you get stuck or don’t know where to start, but don’t do it! Here are some reasons why:"
-
